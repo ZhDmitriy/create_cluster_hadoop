@@ -35,4 +35,6 @@
 Получить отчет по статусу файла: 
 ![image](https://github.com/user-attachments/assets/d2e4d851-a6a1-466f-9881-6d8be0965c92)
 
+Меняем replication factor = 2: 
+![image](https://github.com/user-attachments/assets/1b0925ae-b495-4ea5-9040-5d0a330af6a0)
 
