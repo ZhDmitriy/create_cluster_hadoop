@@ -18,7 +18,13 @@
 8. Создаем правило для исходящего трафика
 ![image](https://github.com/user-attachments/assets/38a65a00-85d8-4779-aad0-b30176765f37)
 ![image](https://github.com/user-attachments/assets/acf8fd86-21bf-4125-8b92-0cf92f4fe386)
-
-
+9. Добавляем возможность устанавливать пакеты:
+![image](https://github.com/user-attachments/assets/010b5160-657d-42fd-bb50-7d286f2aebf6)
+10. Создаем кластер Hadoop
+![image](https://github.com/user-attachments/assets/4b709d0f-4bb1-4e4c-801f-3a206ba8b96f)
+11. После настройки нажимаем создать кластер:
+![image](https://github.com/user-attachments/assets/39768129-ffbf-4353-ae93-6679248ec904)
+12. Настраиваем кластер hadoop
+![image](https://github.com/user-attachments/assets/b0d8174c-e237-4ac4-9e25-c3d7b60b9fee)
 
 
