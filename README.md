@@ -29,4 +29,8 @@
 13. Успешное подключение к дата ноде
 ![image](https://github.com/user-attachments/assets/149c2bdb-bada-4893-924f-a6e007a2cae1)
 
+Кладем первый файл на Hadoop кластер: 
+![image](https://github.com/user-attachments/assets/33260db5-b6ce-459d-af2c-3ed2a7ad39f5)
+
+
 
