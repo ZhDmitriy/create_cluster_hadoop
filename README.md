@@ -33,7 +33,6 @@
 ![image](https://github.com/user-attachments/assets/33260db5-b6ce-459d-af2c-3ed2a7ad39f5)
 
 Получить отчет по статусу файла: 
-
 ![image](https://github.com/user-attachments/assets/d2e4d851-a6a1-466f-9881-6d8be0965c92)
 
 Меняем replication factor = 2: 
