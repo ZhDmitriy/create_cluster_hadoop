@@ -24,7 +24,7 @@
 ![image](https://github.com/user-attachments/assets/4b709d0f-4bb1-4e4c-801f-3a206ba8b96f)
 11. После настройки нажимаем создать кластер:
 ![image](https://github.com/user-attachments/assets/39768129-ffbf-4353-ae93-6679248ec904)
-12. Настраиваем кластер hadoop
+12. Кластер hadoop создан
 ![image](https://github.com/user-attachments/assets/b0d8174c-e237-4ac4-9e25-c3d7b60b9fee)
 
 
