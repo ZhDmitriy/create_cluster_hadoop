@@ -26,5 +26,7 @@
 ![image](https://github.com/user-attachments/assets/39768129-ffbf-4353-ae93-6679248ec904)
 12. Кластер hadoop создан
 ![image](https://github.com/user-attachments/assets/b0d8174c-e237-4ac4-9e25-c3d7b60b9fee)
+13. Успешное подключение к дата ноде
+![image](https://github.com/user-attachments/assets/149c2bdb-bada-4893-924f-a6e007a2cae1)
 
 
