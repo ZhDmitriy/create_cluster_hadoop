@@ -9,3 +9,6 @@
 2. `wget -o frank.txt https://www.gutenberg.org/files/84/84-0.txt`
 
 ![image](https://github.com/user-attachments/assets/d884b893-9b0b-47a0-a8e8-8268475970a6)
+
+Положим скаченные файлы в папку на HDFS: 
+![image](https://github.com/user-attachments/assets/14b7898f-a77a-4a55-9b20-bc8222f7a239)
