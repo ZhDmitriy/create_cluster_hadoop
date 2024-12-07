@@ -12,3 +12,7 @@
 
 Положим скаченные файлы в папку на HDFS: 
 ![image](https://github.com/user-attachments/assets/14b7898f-a77a-4a55-9b20-bc8222f7a239)
+
+Далее запустим код: 
+1. Перейдем в папку, где находятся написанные скрипты: `cd C:/Users/Shhhn/PycharmProjects/MapReduce`
+2. 
