@@ -5,5 +5,7 @@
 ![image](https://github.com/user-attachments/assets/5ecf9181-4664-420a-8ba2-c5618846643b)
 
 Скачаем два файла: 
-1. `wget -0 alice.txt https://www.gutenberg.org/files/11/11-0.txt`
-2. `wget -0 frank.txt https://www.gutenberg.org/files/84/84-0.txt`
+1. `wget -o alice.txt https://www.gutenberg.org/files/11/11-0.txt`
+2. `wget -o frank.txt https://www.gutenberg.org/files/84/84-0.txt`
+
+![image](https://github.com/user-attachments/assets/d884b893-9b0b-47a0-a8e8-8268475970a6)
