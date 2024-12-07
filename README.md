@@ -38,3 +38,7 @@
 Меняем replication factor = 2: 
 ![image](https://github.com/user-attachments/assets/1b0925ae-b495-4ea5-9040-5d0a330af6a0)
 
+Вместе с кластером мы получаем готовые UI:
+
+1. YARN:
+![image](https://github.com/user-attachments/assets/c221065b-845c-4191-8255-e2f126f1f92e)
